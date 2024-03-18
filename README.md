@@ -32,5 +32,4 @@ npm i -g yarn
 
 > <b><span style="color:#83dae6"> >  **Совет:** Если появляется ошибка <span style="color:#e6432e"> about_Execution_Policies at... ,</span> то нужно запустить <b>PowerShell</b> от имени администратора и вписать туда команду: 
     ```
-Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
-    ```</span></b>
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted ```</span></b>
