@@ -33,6 +33,11 @@ npm i -g yarn
 ```bash 
 yarn
 ```
+## 5. Выполнить запуск приложения командой:
+
+```bash 
+npm run dev
+```
 
 > <b><span style="color:#83dae6"> >  **Совет:** Если появляется ошибка <span style="color:#e6432e"> about_Execution_Policies at... ,</span> то нужно запустить <b>PowerShell</b> от имени администратора и вписать туда команду: 
     ```
